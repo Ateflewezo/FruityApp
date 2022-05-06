@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "733345512197",
+    "project_id": "instastore-19b71",
+    "storage_bucket": "instastore-19b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733345512197:android:066a5b1dd52162bfc0956c",
+        "android_client_info": {
+          "package_name": "buy.fruity.us"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733345512197-0ld5203rhvbund9dsqmajhem57df76sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZlVFITlJuEIX49Kh_IEYJ1OQyKVG-_UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733345512197-0ld5203rhvbund9dsqmajhem57df76sb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733345512197-rqgehntk6s0bq9ojm4ebucripjjobs4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instastore.instastore1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
